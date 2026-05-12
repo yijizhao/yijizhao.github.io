@@ -11,7 +11,7 @@ I am a Lecturer at the School of Information Science and Engineering, Yunnan Uni
 
 My research focuses on spatiotemporal intelligence and its applications in smart cities. My research interests include spatiotemporal data mining, spatiotemporal foundation models, traffic forecasting, intelligent transportation, and urban computing.
 
-I have published more than 20 academic papers in leading journals and conferences, including ACM SIGKDD, IEEE TKDE, IEEE TITS, IEEE TSC, ACM TWEB, and IJCAI. I received the First Prize of the Yunnan Provincial Natural Science Award and have won awards in several international competitions.
+I have published more than 20 academic papers in leading journals and conferences, including KDD, ICML, IJCAI, IEEE TKDE, IEEE TSC, IEEE TITS, and ACM TWEB. I received the First Prize of the Yunnan Provincial Natural Science Award and have won awards in several international competitions.
 
 I serve as an executive committee member of the CCF Technical Committee on Smart Transportation and the ACM SIGSPATIAL China Chapter. I also regularly serve as a reviewer for international journals and conferences, including IEEE TKDE, IEEE TNNLS, IEEE TITS, ICML, KDD, AAAI, and IJCAI.
 
