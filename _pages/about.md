@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer at the School of Information Science and Engineering, Yunnan University. I received my Ph.D. degree in Computer Science and Technology from Beijing Jiaotong University in 2023, under the supervision of Prof. Youfang Lin and Prof. Huaiyu Wan. I joined Yunnan University in October 2023 and was selected for the Young Talent Cultivation Program of Yunnan University.
+I am a Lecturer at the School of Information Science and Engineering, Yunnan University. I received my Ph.D. degree in Computer Science and Technology from Beijing Jiaotong University in 2023, under the supervision of Prof. [Youfang Lin](https://faculty.bjtu.edu.cn/7443/) and Prof. [Huaiyu Wan](https://faculty.bjtu.edu.cn/8793/). I joined Yunnan University in October 2023 and was selected for the Young Talent Cultivation Program of Yunnan University.
 
 My research focuses on spatiotemporal intelligence and its applications in smart cities. My research interests include spatiotemporal data mining, spatiotemporal foundation models, traffic forecasting, intelligent transportation, and urban computing.
 
